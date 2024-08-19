@@ -1,5 +1,14 @@
 ## Developer Portfolio Landing Page Template
 
+### IMPORTANT LINKS
+
+Currently using https://chriskhanhtran.github.io/posts/portfolio-tutorial/#step-3-customize-our-portfolio to build my portfolio's landing page.
+
+Github sites that I am using for motivaiton are:
+* https://github.com/chriskhanhtran
+* https://leimao.github.io/project/NBA-Cost-Effectiveness-Ranking/
+
+
 ### Introduction
 
 Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
